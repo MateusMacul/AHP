@@ -18,4 +18,4 @@ DESMATAMENTO EM UMA REGIÃO DE FRONTEIRA AGROPECUÁRIA NA AMAZÔNIA: REGIÃO DE 
 1. _AHP 6.0.xlsx_: Planilha de criação da AHP
 2. _AHP 6.0 simulações.xlsx_: Arquivo com planilha de criação da AHP e simulações 
 3. _ahp.r_: Script com o calculo da soma ponderada, simulações e análise de sensibilidade (ditancia inter quartil)
-4. _grade_celular_: Shapefile usado como exemplo no script
+4. _grade_celular_: Shapefile usado como exemplo no script (arquivo .dbf muito grande para colocar aqui. Posso passar o shape completo a parte)
